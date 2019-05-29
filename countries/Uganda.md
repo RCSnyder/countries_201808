@@ -1,6 +1,6 @@
 ##Uganda
 ## population
-
+1201023312
 
 ## capital
 
